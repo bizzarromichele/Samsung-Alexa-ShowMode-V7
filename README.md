@@ -2,7 +2,7 @@
 
 Guida comunitaria **non ufficiale** per installazione, adattamento e diagnostica di Alexa Show Mode V7 (`amazon.speech.sim`) su Samsung Android. **Non affiliato ad Amazon o Samsung.**
 
-> Esperienza riportata (novembre 2026): dopo configurazione e un periodo di attesa, Alexa ha iniziato a funzionare. Un possibile allineamento con i server Amazon è **un'ipotesi, non una causa dimostrata**. Non esiste un tempo di attesa garantito.
+> Esperienza riportata (novembre 2026): dopo configurazione e un periodo di attesa, Alexa ha iniziato a funzionare su tre dispositivi Samsung (due A52s 5G e un Tab S3 LTE). Un possibile allineamento con i server Amazon è **un'ipotesi, non una causa dimostrata**. Non esiste un tempo di attesa garantito.
 
 ## Dispositivi testati
 
@@ -10,7 +10,7 @@ Guida comunitaria **non ufficiale** per installazione, adattamento e diagnostica
 |---|---|---|
 | Galaxy A52s 5G | Funzionante | Senza root |
 | Galaxy Tab S3 LTE SM-T825, Android 9 | Funzionante dopo test e attesa | Inizialmente HTTP 400 e risposta «Si è verificato un problema» |
-| Altro Galaxy A52s 5G | HTTP 400 nei test | Esito finale non documentato |
+| Secondo Galaxy A52s 5G | Funzionante (confermato successivamente) | Inizialmente HTTP 400; senza root nei test descritti |
 
 ## Requisiti
 - PC Windows con PowerShell e Android Platform Tools (`adb`)
