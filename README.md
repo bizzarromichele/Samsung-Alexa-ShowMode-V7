@@ -41,6 +41,7 @@ adb -s $TAB shell am start -n amazon.speech.sim/com.amazon.paladin.app.MMLaunche
 ```
 
 ## Guide
+- [Build, firma e installazione APK (PowerShell)](docs/BUILD-E-FIRMA.md)
 - [Adattamento Samsung](docs/ADATTAMENTO.md)
 - [Diagnostica HTTP 400 e permessi](docs/DIAGNOSTICA.md)
 - [Componenti Amazon e confronto](docs/COMPONENTI.md)
